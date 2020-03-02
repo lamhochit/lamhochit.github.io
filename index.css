@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://external-preview.redd.it/xac--RMX28hcu6N4FH2_G2_rncSsUbe1C_0g3GwYsZo.jpg?auto=webp&s=e44ae2a1a4557fe857a5f5cbb7d68c882e123c33");
+    url("https://images.wallpapersden.com/image/download/16bit-cityscape-and-lake_60874_480x800.jpg");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://external-preview.redd.it/xac--RMX28hcu6N4FH2_G2_rncSsUbe1C_0g3GwYsZo.jpg?auto=webp&s=e44ae2a1a4557fe857a5f5cbb7d68c882e123c33") center center fixed;
+    url("https://images.wallpapersden.com/image/download/16bit-cityscape-and-lake_60874_480x800.jpg") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://external-preview.redd.it/xac--RMX28hcu6N4FH2_G2_rncSsUbe1C_0g3GwYsZo.jpg?auto=webp&s=e44ae2a1a4557fe857a5f5cbb7d68c882e123c33") !important;
+      url("https://images.wallpapersden.com/image/download/16bit-cityscape-and-lake_60874_480x800.jpg") !important;
   }
 }
