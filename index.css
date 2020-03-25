@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://i.pinimg.com/originals/65/a4/a3/65a4a370a27970c3e868edc59a3436e5.jpg");
+    url("https://images.unsplash.com/photo-1553748024-d1b27fb3f960?w=1500&q=80");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://i.pinimg.com/originals/65/a4/a3/65a4a370a27970c3e868edc59a3436e5.jpg") center center fixed;
+    url("https://images.unsplash.com/photo-1553748024-d1b27fb3f960?w=1500&q=80") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://i.pinimg.com/originals/65/a4/a3/65a4a370a27970c3e868edc59a3436e5.jpg") !important;
+      url("https://images.unsplash.com/photo-1553748024-d1b27fb3f960?w=1500&q=80") !important;
   }
 }
